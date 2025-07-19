@@ -23,8 +23,7 @@ This project explores and analyzes a dataset of telecom customer complaints. Usi
 ## 📝 Summary of Insights
 
 - Most complaints relate to internet outages and billing errors
-- 70% of complaints were resolved within 7 days
-- Company A resolved issues faster than Company B
+- 70% of complaints were resolved.
 
 ## 📦 How to Run
 
